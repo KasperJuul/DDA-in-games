@@ -1,0 +1,27 @@
+Log for Dynamic game at 03-02-2020 13:59:39
+
+
+probability of getting damage is: 0,691462461274013
+
+probability of getting damage is: 0,672639576990711
+
+probability of getting damage is: 0,658454300845196
+
+probability of getting damage is: 0,647271506944363
+
+probability of getting damage is: 0,638163195084118
+
+probability of getting damage is: 0,630558659818236
+
+probability of getting damage is: 0,670873292844358
+
+probability of getting damage is: 0,688394162838078
+
+probability of getting damage is: 0,680002994711277
+
+probability of getting damage is: 0,672639576990711
+
+probability of getting damage is: 0,666110262600222
+
+probability of getting damage is: 0,692835320152455
+
